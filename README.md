@@ -10,7 +10,7 @@ This is a simple Node.js/Express app that fetches a joke from JokeAPI and displa
 
 ## Installation
 1. Clone the repo:
-git clone https://github.com/your-username/joke-app.git
+git clone https://github.com/itsyourtechguy/joke-app.git
 
 2. Install dependencies:
 npm install
